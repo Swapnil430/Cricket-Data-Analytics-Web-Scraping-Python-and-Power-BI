@@ -1,9 +1,11 @@
-# Cricket Data Analytics- Web Scraping, Python and Power BI
-
 Problem Statement
-
-Allens have challenged us to a cricket match. We need to form a team of 11 players to compete against them.
+To select the top 11 players to form a cricket team for the upcoming IPL tournament by analyzing T20 World Cup data.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-We have used cricket T20 world cup (2022) data to build insights on a best 11 players team that we can assemble from the earth that can go and play with aliens. We used Bright Data web scraping to collect data from espncricinfo website then we performed some data transformation and cleaning in Pandas, followed by building dashboards in power bi. 
+The task was to select the top 11 players for the upcoming IPL tournament by analyzing T20 World Cup data. This involved " extracting data from the web using web scraping techniques, cleaning and transforming it using Python (Pandas), and creating dashboards in Power BI " to visualize key player statistics like batting averages and bowling performance. The final detailed dashboard provided clear insights into player performances, aiding selectors in making data-driven decisions for team building.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tools & techniques 
+Python (Pandas), Web Scraping & Microsoft Power BI
